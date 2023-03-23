@@ -1,2 +1,2 @@
 # Pengumpulan_PRAk_PBO
-repositori untuk pengumpulan code praktikum pbo
+repositori untuk pengumpulan code praktikum pbo LAB D
